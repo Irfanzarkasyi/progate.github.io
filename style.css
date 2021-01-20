@@ -1,0 +1,36 @@
+.header-list li {
+    list-style: none;
+    float: left;
+    padding: 33px 20px 33px 20px;
+}
+
+.header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px 20px 40px;
+}
+.main{
+    height: 600px;
+}
+.header {
+    height: 90px;
+}
+
+.footer {
+    height: 120px;
+    padding: 40px;
+    color: #ffff;
+    background-color: #2f5167;
+}
+.footer-logo {
+    font-size: 32px;
+    float: left;
+}
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li {
+    padding-bottom: 20px;
+}
